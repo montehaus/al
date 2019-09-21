@@ -444,7 +444,7 @@ p {
     width: 100%;
 }
 .contactsfoot {
-	text-align: center;
+	text-align: left;
     font-size: 1.2em;
     font-weight: 600;
     line-height: 1em;
@@ -460,7 +460,7 @@ p {
 }
 .contactstext {
 	text-align: left;
-	margin-bottom: 90px;
+	margin-bottom: 60px;
 	font-size: 1.2em;
 }
 .cont {
@@ -472,7 +472,7 @@ p {
 .footermenu {
 	position: absolute;
     vertical-align: bottom;
-    bottom: 5px;
+    bottom: 15px;
     text-align: center;
     margin: 0;
     left: 0%;
